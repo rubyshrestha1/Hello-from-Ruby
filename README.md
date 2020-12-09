@@ -5,12 +5,12 @@
 This app starts with custom label and distinct background. It has features to change the text, text color and background color. It also enables user to reset the default features. User is able to provide the custom input too. 
 
 ### App Walk-though
-Change backgrouncd color: <img src="http://g.recordit.co/A6jttWgzWS.gif" width=200><br>
-Change text color: <img src="http://g.recordit.co/BthgAyo8u2.gif" width=200><br>
-Change text: <img src="http://g.recordit.co/7zl4EYvgm4.gif" width=200><br>
-Reset to default features: <img src="http://g.recordit.co/KhbGeydX5n.gif" width=200><br>
-User input example1: <img src="https://recordit.co/A6jttWgzWS" width=200><br>
-User input example2: <img src="http://g.recordit.co/byfK36UZi5.gifS" width=200><br>
+Change background color:<br> <img src="http://g.recordit.co/A6jttWgzWS.gif" width=200><br><br>
+Change text color: <br><img src="http://g.recordit.co/BthgAyo8u2.gif" width=200><br><br>
+Change text: <br><img src="http://g.recordit.co/7zl4EYvgm4.gif" width=200><br><br>
+Reset to default features: <br><img src="http://g.recordit.co/KhbGeydX5n.gif" width=200><br><br>
+User input example1: <br><img src="https://recordit.co/A6jttWgzWS" width=200><br><br>
+User input example2:<br> <img src="http://g.recordit.co/byfK36UZi5.gifS" width=200><br><br>
 
 
 ### Required User Stories
