@@ -9,8 +9,8 @@ Change background color:<br> <img src="http://g.recordit.co/A6jttWgzWS.gif" widt
 Change text color: <br><img src="http://g.recordit.co/BthgAyo8u2.gif" width=200><br><br>
 Change text: <br><img src="http://g.recordit.co/7zl4EYvgm4.gif" width=200><br><br>
 Reset to default features: <br><img src="http://g.recordit.co/KhbGeydX5n.gif" width=200><br><br>
-User input example1: <br><img src="https://recordit.co/A6jttWgzWS" width=200><br><br>
-User input example2:<br> <img src="http://g.recordit.co/byfK36UZi5.gifS" width=200><br><br>
+User input example1: <br><img src="http://g.recordit.co/ZuIL8o6AlZ.gif" width=200><br><br>
+User input example2:<br> <img src="http://g.recordit.co/byfK36UZi5.gif" width=200><br><br>
 
 
 ### Required User Stories
